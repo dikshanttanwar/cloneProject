@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Youtube like Platform",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -13,6 +13,7 @@
   "author": "Dikshant Tanwar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
   }
 }
